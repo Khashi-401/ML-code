@@ -1,5 +1,5 @@
 # ML code
-  **## Reproducing "Rapid Estimation of Activation Energy"**
+  **##Reproducing "Rapid Estimation of Activation Energy"**
 
 This project aims to reproduce the findings presented in the article "Rapid estimation of activation energy in heterogeneous catalytic reactions via machine learning(https://doi.org/10.1002/jcc.25567)". The original work employs a data-driven approach to predict the activation energy of chemical reactions, utilizing reaction energy and introducing the reactants,catalysts,surface and products as descriptors.
 
