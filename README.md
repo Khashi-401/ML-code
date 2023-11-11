@@ -9,7 +9,7 @@ In my implementation, two machine learning models are employed: a simple Multi-L
 
 **Data**
 
-In the __## Assigned Number__ file, the categorical nature of the data is introduced. The numbers are assigned to different chemical compounds, so the model can understand the changings on the reaction's nature. In the __## DataSet__ file, the dataset of this approach is brought. These files are released by the authors, and are available free of charge.
+In the **Assigned Number** file, the categorical nature of the data is introduced. The numbers are assigned to different chemical compounds, so the model can understand the changings on the reaction's nature. In the **DataSet** file, the dataset of this approach is brought. These files are released by the authors, and are available free of charge.
 
 **Data Scaling**
 
